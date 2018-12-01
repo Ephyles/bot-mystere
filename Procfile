@@ -1,1 +1,1 @@
-worker: java -jar target/bot-mystere.jar
+web: java -jar target/testbot.jar
