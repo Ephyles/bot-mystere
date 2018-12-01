@@ -1,1 +1,1 @@
-web: java -jar target/testbot.jar
+web: java -jar testbot.jar
