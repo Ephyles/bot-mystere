@@ -1,1 +1,1 @@
-web: java -jar testbot.jar
+web: java -jar mysterybot.jar
